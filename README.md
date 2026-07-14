@@ -7,6 +7,7 @@ This repository documents my journey of improving problem-solving skills, learni
 ## Progress
 | # | Problem | Pattern | Difficulty |
 |---:|---------|---------|:----------:|
+| 0001 | Two Sum | Array, Hash Table | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 
 ### Solution Format
