@@ -9,6 +9,7 @@ This repository documents my journey of improving problem-solving skills, learni
 |---:|---------|---------|:----------:|
 | 0001 | Two Sum | Array, Hash Table | Easy |
 | 0015 | 3Sum | Array, Sorting, Two Pointers | Med |
+| 0058 | Length of Last Word | String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 
 ### Solution Format
