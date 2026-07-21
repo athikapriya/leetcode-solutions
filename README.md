@@ -12,6 +12,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0058 | Length of Last Word | String | Easy |
+| 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
