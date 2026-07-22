@@ -10,11 +10,12 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0001 | Two Sum | Array, Hash Table | Easy |
 | 0015 | 3Sum | Array, Sorting, Two Pointers | Med |
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
-| 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0058 | Length of Last Word | String | Easy |
+| 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
+| 0242 | Valid Anagram | Hash Table, String | Easy |
+| 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
-| 0242 | Valid Anagram | Hash Table, String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 
 ### Solution Format
