@@ -17,6 +17,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
+| 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
 
 ### Solution Format
 Each solution includes:
