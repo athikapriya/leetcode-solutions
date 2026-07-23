@@ -18,6 +18,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
+| 3110 | Score of a String | String | Easy |
 
 ### Solution Format
 Each solution includes:
