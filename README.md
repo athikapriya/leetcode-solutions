@@ -18,6 +18,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
 | 0485 | Max Consecutive Ones | Array | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
+| 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
