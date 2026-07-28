@@ -12,6 +12,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0015 | 3Sum | Array, Sorting, Two Pointers | Med |
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
 | 0058 | Length of Last Word | String | Easy |
+| 0118 | Pascal's Triangle | Array, Dynamic Programming | Easy |
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
