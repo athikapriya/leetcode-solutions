@@ -17,8 +17,9 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
-| 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
 | 0485 | Max Consecutive Ones | Array | Easy |
+| 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
+| 0929 | Unique Email Address | Hash Table, String | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
