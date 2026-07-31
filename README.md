@@ -32,6 +32,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 2678 | Number of Senior Citizens | String, Array | Easy |
 | 3014 | Minimum Number of Pushes to Type Word I | Greedy, Math | Easy |
 | 3110 | Score of a String | String | Easy |
+| 3442 | Maximum Difference Between Even and Odd Frequency I | Hash Table, String, Counting | Easy |
 
 ### Solution Format
 Each solution includes:
