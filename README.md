@@ -26,6 +26,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0605 | Can place Flowers | Greedy, Array | Easy |
 | 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
 | 0929 | Unique Email Address | Hash Table, String | Easy |
+| 1051 | Height Checker | Sorting, Array, Counting Sort | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
