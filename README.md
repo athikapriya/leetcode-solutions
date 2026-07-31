@@ -19,6 +19,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 0290 | Word Pattern | Hash Table, String | Easy |
+| 0383 | Ransom Note | Hash Table, String, Counting | Easy |
 | 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
 | 0448 | Find All Numbers Disappeared in An Array | Hash Table, Array | Easy |
 | 0485 | Max Consecutive Ones | Array | Easy |
