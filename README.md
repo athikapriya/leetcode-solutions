@@ -35,6 +35,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
 | 1800 | Maximum Ascending Subarray Sum | Array | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
+| 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
 | 2053 | Kth Distinct String in an Array | Hash Table, Array, String, Counting | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
