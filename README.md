@@ -23,6 +23,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
 | 0448 | Find All Numbers Disappeared in An Array | Hash Table, Array | Easy |
 | 0485 | Max Consecutive Ones | Array | Easy |
+| 0486 | Predict the Winner | Dynamic Programming, Game Theory, Array, Math, Recursion | Easy |
 | 0496 | Next Greater Element I | Monotonic Stack, Stack, Hash Table, Array | Easy |
 | 0605 | Can place Flowers | Greedy, Array | Easy |
 | 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
