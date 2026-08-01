@@ -26,6 +26,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0496 | Next Greater Element I | Monotonic Stack, Stack, Hash Table, Array | Easy |
 | 0605 | Can place Flowers | Greedy, Array | Easy |
 | 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
+| 0724 | Find Pivot Index | Prefix Sum, Array | Easy |
 | 0929 | Unique Email Address | Hash Table, String | Easy |
 | 1051 | Height Checker | Sorting, Array, Counting Sort | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
