@@ -28,6 +28,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0496 | Next Greater Element I | Monotonic Stack, Stack, Hash Table, Array | Easy |
 | 0605 | Can place Flowers | Greedy, Array | Easy |
 | 0628 | Maximum Product of Three Numbers | Sorting, Array, Math | Easy |
+| 0705 | Design Hashset | Hash Table, Hash Fucntion, Array, Linked List, Design | Easy |
 | 0724 | Find Pivot Index | Prefix Sum, Array | Easy |
 | 0877 | Stome Game | Dynamic Programming | Med |
 | 0929 | Unique Email Address | Hash Table, String | Easy |
