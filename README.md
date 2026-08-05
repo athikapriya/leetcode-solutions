@@ -36,6 +36,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1051 | Height Checker | Sorting, Array, Counting Sort | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
+| 1394 |  Find Lucky Integer in an Array | Hash Table, Array, Counting | Easy |
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
 | 1684 | Count the Number of Consistent String | Hash Table, Array, String, Counting, Bit Manipulation | Easy |
