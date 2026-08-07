@@ -40,6 +40,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
 | 1684 | Count the Number of Consistent String | Hash Table, Array, String, Counting, Bit Manipulation | Easy |
+| 1752 | Check if Array Is Sorted and Rotated | Array | Easy |
 | 1800 | Maximum Ascending Subarray Sum | Array | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
