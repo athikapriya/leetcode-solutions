@@ -32,6 +32,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0706 | Design Hashmap | Hash Table, Hash Fucntion, Array, Linked List, Design | Easy |
 | 0724 | Find Pivot Index | Prefix Sum, Array | Easy |
 | 0877 | Stome Game | Dynamic Programming | Med |
+| 0896 | Monotonic Array | Array | Easy |
 | 0929 | Unique Email Address | Hash Table, String | Easy |
 | 1051 | Height Checker | Sorting, Array, Counting Sort | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
