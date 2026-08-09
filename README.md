@@ -46,6 +46,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
 | 2053 | Kth Distinct String in an Array | Hash Table, Array, String, Counting | Easy |
+| 2206 | Divide Array Into Equal Pairs | Hash Table, Array | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
 | 2678 | Number of Senior Citizens | String, Array | Easy |
