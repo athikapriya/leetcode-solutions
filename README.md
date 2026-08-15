@@ -54,6 +54,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 2206 | Divide Array Into Equal Pairs | Hash Table, Array | Easy |
 | 2264 | Largest 3-Same-Digit Number in String | String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
+| 2351 | First Letter to Appear Twice | Hash Table, String, Counting, Bit Manipulation | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
 | 2678 | Number of Senior Citizens | String, Array | Easy |
 | 2965 | Find Missing and Repeated Values | Hash Table, Array, Math, Matrix | Easy |
