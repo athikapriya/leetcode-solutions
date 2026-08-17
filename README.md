@@ -43,6 +43,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1394 |  Find Lucky Integer in an Array | Hash Table, Array, Counting | Easy |
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1436 | Destination City | Hash Table, Array, String | Easy |
+| 1442 | Maximum Score After Splitting a String | Prefix Sum, String | Easy |
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
 | 1512 | Number of Good Pairs | Hash Table, Counting, Array | Easy |
 | 1684 | Count the Number of Consistent String | Hash Table, Array, String, Counting, Bit Manipulation | Easy |
