@@ -49,6 +49,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1512 | Number of Good Pairs | Hash Table, Counting, Array | Easy |
 | 1684 | Count the Number of Consistent String | Hash Table, Array, String, Counting, Bit Manipulation | Easy |
 | 1752 | Check if Array Is Sorted and Rotated | Array | Easy |
+| 1758 | Minimum Changes To Make Alternating Binary String | String | Easy |
 | 1800 | Maximum Ascending Subarray Sum | Array | Easy |
 | 1913 | Maximum Product Difference Between Two Pairs | Array, Sorting, Counting | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
