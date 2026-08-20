@@ -51,6 +51,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1752 | Check if Array Is Sorted and Rotated | Array | Easy |
 | 1758 | Minimum Changes To Make Alternating Binary String | String | Easy |
 | 1800 | Maximum Ascending Subarray Sum | Array | Easy |
+| 1897 | 1897. Redistribute Characters to Make All Strings Equal | Hash Table, Counting, String | Easy |
 | 1913 | Maximum Product Difference Between Two Pairs | Array, Sorting, Counting | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
