@@ -48,6 +48,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1464 | Maximum Product of Two Elements in an Array | Array, Simulation/Traversal | Easy |
 | 1496 | Path Crossing | Hash Table, string | Easy |
 | 1512 | Number of Good Pairs | Hash Table, Counting, Array | Easy |
+| 1624 | Largest Substring Between Two Equal Characters | Hash Table, string | Easy |
 | 1684 | Count the Number of Consistent String | Hash Table, Array, String, Counting, Bit Manipulation | Easy |
 | 1752 | Check if Array Is Sorted and Rotated | Array | Easy |
 | 1758 | Minimum Changes To Make Alternating Binary String | String | Easy |
