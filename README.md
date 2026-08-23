@@ -19,6 +19,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0205 | Isomorphic Strings | Hash Table, String | Easy |
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
+| 0287 | Find the Duplicate Number | Floyd's Cycle Finding Algorithm, Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle | Med |
 | 0290 | Word Pattern | Hash Table, String | Easy |
 | 0303 | Range Sum Query - Immutable | Prefix Sum | Easy |
 | 0383 | Ransom Note | Hash Table, String, Counting | Easy |
