@@ -23,7 +23,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0290 | Word Pattern | Hash Table, String | Easy |
 | 0303 | Range Sum Query - Immutable | Prefix Sum | Easy |
 | 0383 | Ransom Note | Hash Table, String, Counting | Easy |
-| 0387 | 387. First Unique Character in a String | Hash Table, String, Counting, Queue | Easy |
+| 0387 | First Unique Character in a String | Hash Table, String, Counting, Queue | Easy |
 | 0392 | Is Subsequence | Two Pinters, String, Dynamic Programming | Easy |
 | 0409 | Longest Palindrome | Hash Table, String | Easy |
 | 0448 | Find All Numbers Disappeared in An Array | Hash Table, Array | Easy |
@@ -39,6 +39,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0877 | Stome Game | Dynamic Programming | Med |
 | 0896 | Monotonic Array | Array | Easy |
 | 0929 | Unique Email Address | Hash Table, String | Easy |
+| 1002 | Find Common Characters | Hash Table, Array, String | Easy |
 | 1051 | Height Checker | Sorting, Array, Counting Sort | Easy |
 | 1160 | Find Words That Can Be Formed by Characters | Array, Hash Table, Counting, String | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
@@ -55,7 +56,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1752 | Check if Array Is Sorted and Rotated | Array | Easy |
 | 1758 | Minimum Changes To Make Alternating Binary String | String | Easy |
 | 1800 | Maximum Ascending Subarray Sum | Array | Easy |
-| 1897 | 1897. Redistribute Characters to Make All Strings Equal | Hash Table, Counting, String | Easy |
+| 1897 | Redistribute Characters to Make All Strings Equal | Hash Table, Counting, String | Easy |
 | 1913 | Maximum Product Difference Between Two Pairs | Array, Sorting, Counting | Easy |
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
