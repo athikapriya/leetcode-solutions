@@ -64,6 +64,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1929 | Concatenation of Array | Array, Simulation | Easy |
 | 1991 |  Find the Middle Index in Array | Prefix Sum, Array | Easy |
 | 2053 | Kth Distinct String in an Array | Hash Table, Array, String, Counting | Easy |
+| 2073 | Time Needed to Buy Tickets | Array, Queue, Simulation | Easy |
 | 2206 | Divide Array Into Equal Pairs | Hash Table, Array | Easy |
 | 2264 | Largest 3-Same-Digit Number in String | String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
