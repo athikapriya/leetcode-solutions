@@ -69,6 +69,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 2264 | Largest 3-Same-Digit Number in String | String | Easy |
 | 2299 | Strong Password Checker II | String | Easy |
 | 2351 | First Letter to Appear Twice | Hash Table, String, Counting, Bit Manipulation | Easy |
+| 2418 | Sort the people | Array, Hash Table, String, Sorting | Easy |
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
 | 2490 | Circular Sentence | String | Easy |
 | 2678 | Number of Senior Citizens | String, Array | Easy |
