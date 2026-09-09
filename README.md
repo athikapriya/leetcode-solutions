@@ -15,9 +15,10 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0058 | Length of Last Word | String | Easy |
 | 0118 | Pascal's Triangle | Array, Dynamic Programming | Easy |
 | 0119 | Pascal's Triangle II | Array, Dynamic Programming | Easy |
-| 0169 | Majority Elements | Array, Hash Table, Devide and Conquer, Sorting, Counting, Greedy | Easy |
+| 0169 | Majority Elements | Greedy | Easy |
 | 0205 | Isomorphic Strings | Hash Table, String | Easy |
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
+| 0229 | Majority Elements II | Greedy | Med |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 0287 | Find the Duplicate Number | Floyd's Cycle Finding Algorithm, Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle | Med |
 | 0290 | Word Pattern | Hash Table, String | Easy |
