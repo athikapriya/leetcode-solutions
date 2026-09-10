@@ -82,6 +82,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 3110 | Score of a String | String | Easy |
 | 3151 | Special Array I | Array | Easy |
 | 3345 | Smallest Divisible Digit Product I | Math, Enumeration | Easy |
+| 3438 | Find Valid Pair of Adjacent Digits in String | Hash Table, String, Counting |
 | 3442 | Maximum Difference Between Even and Odd Frequency I | Hash Table, String, Counting | Easy |
 | 3622 | Check Divisibility by Digit Sum and Product | Math | Easy |
 
