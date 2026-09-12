@@ -11,6 +11,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0014 | Logest Common Prefix | string, Array, Trie | Easy |
 | 0015 | 3Sum | Array, Sorting, Two Pointers | Med |
 | 0027 | Remove Element | Two Pointers, array | Easy |
+| 0035 | Search Insert Position | Binary Search | Easy |
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
 | 0058 | Length of Last Word | String | Easy |
 | 0118 | Pascal's Triangle | Array, Dynamic Programming | Easy |
