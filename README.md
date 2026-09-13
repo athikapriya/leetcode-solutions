@@ -48,6 +48,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 1160 | Find Words That Can Be Formed by Characters | Array, Hash Table, Counting, String | Easy |
 | 1189 | Maximum Number of Balloons | Hash Table, String, Counting | Easy |
 | 1299 | Replace Elements with Greatest Element on Right Side | Array | Easy |
+| 1331 | Rank Transform of an Array | Hash Table, Sorting | Easy |
 | 1394 |  Find Lucky Integer in an Array | Hash Table, Array, Counting | Easy |
 | 1408 | String Matching in an Array | String, Array, String Matching | Easy |
 | 1436 | Destination City | Hash Table, Array, String | Easy |
