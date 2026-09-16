@@ -19,6 +19,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0169 | Majority Elements | Greedy | Easy |
 | 0205 | Isomorphic Strings | Hash Table, String | Easy |
 | 0217 | Contains Duplicate | Hash Table, Array, Sorting | Easy |
+| 0220 | Contains Duplicate III | Sliding Window | Hard |
 | 0229 | Majority Elements II | Greedy | Med |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
 | 0287 | Find the Duplicate Number | Floyd's Cycle Finding Algorithm, Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle | Med |
