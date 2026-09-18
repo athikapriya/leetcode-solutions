@@ -14,6 +14,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0035 | Search Insert Position | Binary Search | Easy |
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
 | 0058 | Length of Last Word | String | Easy |
+| 0070 | Climbing Stairs | Dynamic Programming | Easy |
 | 0118 | Pascal's Triangle | Array, Dynamic Programming | Easy |
 | 0119 | Pascal's Triangle II | Array, Dynamic Programming | Easy |
 | 0169 | Majority Elements | Greedy | Easy |
