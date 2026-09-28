@@ -83,6 +83,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 2486 | Append Characters to String to Make Subsequence | Two Pointers, String, Greedy | Med |
 | 2490 | Circular Sentence | String | Easy |
 | 2678 | Number of Senior Citizens | String, Array | Easy |
+| 2942 | Find Words Containing Characters | Array | Easy |
 | 2965 | Find Missing and Repeated Values | Hash Table, Array, Math, Matrix | Easy |
 | 2996 | Smallest Missing Integer Greater Than Sequential Prefix Sum | Hash Table, Array, Sorting | Easy |
 | 3014 | Minimum Number of Pushes to Type Word I | Greedy, Math | Easy |
