@@ -25,6 +25,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0220 | Contains Duplicate III | Sliding Window | Hard |
 | 0229 | Majority Elements II | Greedy | Med |
 | 0242 | Valid Anagram | Hash Table, String | Easy |
+| 0278 | First Bad Version | Binary Search | Easy |
 | 0287 | Find the Duplicate Number | Floyd's Cycle Finding Algorithm, Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle | Med |
 | 0290 | Word Pattern | Hash Table, String | Easy |
 | 0303 | Range Sum Query - Immutable | Prefix Sum | Easy |
