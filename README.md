@@ -10,6 +10,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0001 | Two Sum | Array, Hash Table | Easy |
 | 0014 | Logest Common Prefix | string, Array, Trie | Easy |
 | 0015 | 3Sum | Array, Sorting, Two Pointers | Med |
+| 0020 | Valid Parentheses | Stack, String | Easy |
 | 0027 | Remove Element | Two Pointers, array | Easy |
 | 0034 | Find First and Last Position of Element in Sorted Array | Binary Search | Med |
 | 0035 | Search Insert Position | Binary Search | Easy |
