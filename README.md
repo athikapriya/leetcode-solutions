@@ -13,6 +13,7 @@ This repository documents my journey of improving problem-solving skills, learni
 | 0020 | Valid Parentheses | Stack, String | Easy |
 | 0022 | Generate Parentheses | Backtracking, Bracket Sequences | Med |
 | 0027 | Remove Element | Two Pointers, array | Easy |
+| 0032 | Longest Valid Parentheses | Stack, String, Bracket Sequences | Hard |
 | 0034 | Find First and Last Position of Element in Sorted Array | Binary Search | Med |
 | 0035 | Search Insert Position | Binary Search | Easy |
 | 0049 | Group Anagrams | Hash Table, Sorting, String, Array | Med |
